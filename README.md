@@ -30,7 +30,7 @@ Encontrar alguém confiável para resolver uma necessidade local pode exigir bus
 
 ### Catálogo de serviços
 
-![Catálogo de serviços do LocalHelp](./project/src/assets/screenshots/Servi%C3%A7os.png)
+![Catálogo de serviços do LocalHelp](./project/src/assets/screenshots/Servicos.png)
 
 ### Sobre o projeto
 
