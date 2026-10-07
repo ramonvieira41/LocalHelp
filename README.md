@@ -26,7 +26,7 @@ Encontrar alguém confiável para resolver uma necessidade local pode exigir bus
 
 ### Página inicial
 
-![Página inicial do LocalHelp](./project/src/assets/screenshots/Home.png)
+![Página inicial do LocalHelp](./project/src/assets/screenshots/Home2.png)
 
 ### Catálogo de serviços
 
