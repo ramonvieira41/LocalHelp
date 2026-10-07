@@ -26,19 +26,19 @@ Encontrar alguém confiável para resolver uma necessidade local pode exigir bus
 
 ### Página inicial
 
-![Página inicial do LocalHelp](./src/assets/screenshots/Home.png)
+![Página inicial do LocalHelp](./project/src/assets/screenshots/Home.png)
 
 ### Catálogo de serviços
 
-![Catálogo de serviços do LocalHelp](./src/assets/screenshots/Servi%C3%A7os.png)
+![Catálogo de serviços do LocalHelp](./project/src/assets/screenshots/Servi%C3%A7os.png)
 
 ### Sobre o projeto
 
-![Página Sobre do LocalHelp](./src/assets/screenshots/Sobre.png)
+![Página Sobre do LocalHelp](./project/src/assets/screenshots/Sobre.png)
 
 ### Cadastro
 
-![Tela de cadastro do LocalHelp](./src/assets/screenshots/Cadastro.png)
+![Tela de cadastro do LocalHelp](./project/src/assets/screenshots/Cadastro.png)
 
 
 ## Tecnologias
