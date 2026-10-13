@@ -87,7 +87,7 @@ export function RouteModal({ provider, onClose }: RouteModalProps) {
           </button>
         </div>
 
-        <div className="relative flex-1 min-h-[300px]">
+        <div className="relative h-[50vh] min-h-[300px] max-h-[600px] w-full">
           {loading && (
             <div className="absolute inset-0 flex items-center justify-center">
               <div className="flex flex-col items-center gap-2 text-gray-500 dark:text-gray-400">
